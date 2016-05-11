@@ -1,12 +1,11 @@
 {
-    "current_interview_date_str": "",
-    "logfile": "",
-     
-    "email_from": "",
-    "email_to": [],
-     
-    "username": "", 
-    "password": "",
-    "enrollment_location_id": "",
-    "init_url": "https://goes-app.cbp.dhs.gov/main/goes",
+  "current_interview_date": "",
+  "username": "",
+  "password": "",
+  "twilio_account": "",
+  "twilio_token": "",
+  "twilio_to_phone": "",
+  "twilio_from_phone": "",
+  "enrollment_location_id": "",
+  "init_url": "https://goes-app.cbp.dhs.gov/main/goes",
 }
